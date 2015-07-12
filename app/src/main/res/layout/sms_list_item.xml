@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/txt_message_item"
+        android:text="you looks so beautiful today, because you're always beautiful"
+        android:background="@drawable/sms_item_border_radius_pink_dim"
+        android:layout_margin="@dimen/abc_action_bar_overflow_padding_start_material">
+    </TextView>
+
+</LinearLayout>

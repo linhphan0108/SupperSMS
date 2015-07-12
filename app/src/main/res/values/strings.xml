@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Supper SMS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_love_message">LoveMessage</string>
+
+    <color name="super_cute_sms_pink">#ff76bc</color>
+    <color name="super_cute_sms_orange">#fe7c22</color>
+    <color name="super_cute_sms_green">#77b900</color>
+    <color name="super_cute_sms_blue">#2572eb</color>
+    <color name="super_cute_sms_purple">#c1004f</color>
+
+    <color name="super_cute_sms_pink_dim">#a1d75c9b</color>
+    <color name="super_cute_sms_orange_dim">#a1d76418</color>
+    <color name="super_cute_sms_green_dim">#a0199900</color>
+    <color name="super_cute_sms_blue_dim">#a02467cf</color>
+    <color name="super_cute_sms_purple_dim">#a1d70054</color>
+
+    <color name="transparent">#3b000000</color>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
